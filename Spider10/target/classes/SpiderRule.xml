@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<sites>
+    <site>
+        <title>纵横小说网</title>
+        <charset>UTF-8</charset>
+        <url>http://book.zongheng.com/</url>
+        <selector>table tr td a</selector>
+        <special>ZONGHENGXIAOSHUO</special>
+    </site>
+    <site>
+        <title>小说阅读网</title>
+        <charset>UTF-8</charset>
+        <url>https://www.readnovel.com/</url>
+        <selector>ul li a</selector>
+        <special>XIAOSHUOYUEDUWANG</special>
+    </site>
+
+
+
+</sites>
